@@ -1,5 +1,5 @@
 ---
-title: Diagnóstico SOA Actual FNA
+title: Negocio 01-2023. Restaurante
 keywords:
 - SOA
 - madurez
@@ -8,9 +8,8 @@ lang: en-US
 date-meta: '2023-03-27'
 author-meta:
 - Harry Wong, ing.
-- Eddie Hernandez, ing.
-- Federico Suárez, ing.
-- Darío Correal, ing.
+- Enid Molina
+- Xavier Maldonado
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -18,15 +17,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
-  <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
-  <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
+  <meta name="dc.title" content="Negocio 01-2023. Restaurante" />
+  <meta name="citation_title" content="Negocio 01-2023. Restaurante" />
+  <meta property="og:title" content="Negocio 01-2023. Restaurante" />
+  <meta property="twitter:title" content="Negocio 01-2023. Restaurante" />
   <meta name="dc.date" content="2023-03-27" />
   <meta name="citation_publication_date" content="2023-03-27" />
   <meta property="article:published_time" content="2023-03-27" />
-  <meta name="dc.modified" content="2023-03-27T19:14:47+00:00" />
-  <meta property="article:modified_time" content="2023-03-27T19:14:47+00:00" />
+  <meta name="dc.modified" content="2023-03-27T19:23:58+00:00" />
+  <meta property="article:modified_time" content="2023-03-27T19:23:58+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -34,22 +33,20 @@ header-includes: |
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
   <meta name="citation_author" content="Harry Wong, ing." />
-  <meta name="citation_author_institution" content="Arquitecto SOA, Stefanini" />
-  <meta name="citation_author" content="Eddie Hernandez, ing." />
-  <meta name="citation_author_institution" content="Datos, Stefanini" />
-  <meta name="citation_author" content="Federico Suárez, ing." />
-  <meta name="citation_author_institution" content="Infraestructura, Stefanini" />
-  <meta name="citation_author" content="Darío Correal, ing." />
-  <meta name="citation_author_institution" content="Arquitecto TI, Stefanini" />
+  <meta name="citation_author_institution" content="Arquitecto" />
+  <meta name="citation_author" content="Enid Molina" />
+  <meta name="citation_author_institution" content="Operación" />
+  <meta name="citation_author" content="Xavier Maldonado" />
+  <meta name="citation_author_institution" content="Diseño" />
   <link rel="canonical" href="https://hwong23.github.io/neg-01-2023/" />
   <meta property="og:url" content="https://hwong23.github.io/neg-01-2023/" />
   <meta property="twitter:url" content="https://hwong23.github.io/neg-01-2023/" />
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/neg-01-2023/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/neg-01-2023/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/neg-01-2023/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/neg-01-2023/v/abbb8c4e21816da6b7b92507903853009605fb10/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/abbb8c4e21816da6b7b92507903853009605fb10/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/abbb8c4e21816da6b7b92507903853009605fb10/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/neg-01-2023/v/1527b377298289bd5d97a24bf8257f1fe288f209/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/1527b377298289bd5d97a24bf8257f1fe288f209/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/1527b377298289bd5d97a24bf8257f1fe288f209/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -71,9 +68,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/neg-01-2023/v/abbb8c4e21816da6b7b92507903853009605fb10/))
+([permalink](https://hwong23.github.io/neg-01-2023/v/1527b377298289bd5d97a24bf8257f1fe288f209/))
 was automatically generated
-from [hwong23/neg-01-2023@abbb8c4](https://github.com/hwong23/neg-01-2023/tree/abbb8c4e21816da6b7b92507903853009605fb10)
+from [hwong23/neg-01-2023@1527b37](https://github.com/hwong23/neg-01-2023/tree/1527b377298289bd5d97a24bf8257f1fe288f209)
 on March 27, 2023.
 </em></small>
 
@@ -86,37 +83,28 @@ on March 27, 2023.
 + **Harry Wong, ing.**
   <br>
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [e_hwong](https://github.com/e_hwong)
+    [hwong](https://github.com/hwong)
     <br>
   <small>
-     Arquitecto SOA, Stefanini
+     Arquitecto
   </small>
 
-+ **Eddie Hernandez, ing.**
++ **Enid Molina**
   <br>
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [e_ehernandez](https://github.com/e_ehernandez)
+    [emolina](https://github.com/emolina)
     <br>
   <small>
-     Datos, Stefanini
+     Operación
   </small>
 
-+ **Federico Suárez, ing.**
++ **Xavier Maldonado**
   <br>
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [e_fsuarez](https://github.com/e_fsuarez)
+    [xmaldonado](https://github.com/xmaldonado)
     <br>
   <small>
-     Infraestructura, Stefanini
-  </small>
-
-+ **Darío Correal, ing.**
-  <br>
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [e_dcorreal](https://github.com/e_dcorreal)
-    <br>
-  <small>
-     Arquitecto TI, Stefanini
+     Diseño
   </small>
 
 
@@ -138,7 +126,7 @@ on March 27, 2023.
 |Palabras clave  |condiciones, participación, ingresos, permanencia, acuerdo |
 |Autor           |                                                   |
 |Fuente          |                                                   |
-|Version|abbb8c4 del 27 Mar 2023                              |
+|Version|1527b37 del 27 Mar 2023                              |
 |Vínculos|[01.abstract](01.abstract.md)                              |
 
 <br>

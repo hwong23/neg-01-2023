@@ -5,12 +5,11 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Harry Wong, ing." />
-  <meta name="author" content="Eddie Hernandez, ing." />
-  <meta name="author" content="Federico Suárez, ing." />
-  <meta name="author" content="Darío Correal, ing." />
+  <meta name="author" content="Enid Molina" />
+  <meta name="author" content="Xavier Maldonado" />
   <meta name="dcterms.date" content="2023-03-27" />
   <meta name="keywords" content="SOA, madurez, gobierno" />
-  <title>Diagnóstico SOA Actual FNA</title>
+  <title>Negocio 01-2023. Restaurante</title>
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -49,15 +48,15 @@
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
-  <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
-  <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
+  <meta name="dc.title" content="Negocio 01-2023. Restaurante" />
+  <meta name="citation_title" content="Negocio 01-2023. Restaurante" />
+  <meta property="og:title" content="Negocio 01-2023. Restaurante" />
+  <meta property="twitter:title" content="Negocio 01-2023. Restaurante" />
   <meta name="dc.date" content="2023-03-27" />
   <meta name="citation_publication_date" content="2023-03-27" />
   <meta property="article:published_time" content="2023-03-27" />
-  <meta name="dc.modified" content="2023-03-27T19:14:47+00:00" />
-  <meta property="article:modified_time" content="2023-03-27T19:14:47+00:00" />
+  <meta name="dc.modified" content="2023-03-27T19:23:58+00:00" />
+  <meta property="article:modified_time" content="2023-03-27T19:23:58+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -65,22 +64,20 @@
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
   <meta name="citation_author" content="Harry Wong, ing." />
-  <meta name="citation_author_institution" content="Arquitecto SOA, Stefanini" />
-  <meta name="citation_author" content="Eddie Hernandez, ing." />
-  <meta name="citation_author_institution" content="Datos, Stefanini" />
-  <meta name="citation_author" content="Federico Suárez, ing." />
-  <meta name="citation_author_institution" content="Infraestructura, Stefanini" />
-  <meta name="citation_author" content="Darío Correal, ing." />
-  <meta name="citation_author_institution" content="Arquitecto TI, Stefanini" />
+  <meta name="citation_author_institution" content="Arquitecto" />
+  <meta name="citation_author" content="Enid Molina" />
+  <meta name="citation_author_institution" content="Operación" />
+  <meta name="citation_author" content="Xavier Maldonado" />
+  <meta name="citation_author_institution" content="Diseño" />
   <link rel="canonical" href="https://hwong23.github.io/neg-01-2023/" />
   <meta property="og:url" content="https://hwong23.github.io/neg-01-2023/" />
   <meta property="twitter:url" content="https://hwong23.github.io/neg-01-2023/" />
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/neg-01-2023/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/neg-01-2023/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/neg-01-2023/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/neg-01-2023/v/abbb8c4e21816da6b7b92507903853009605fb10/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/abbb8c4e21816da6b7b92507903853009605fb10/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/abbb8c4e21816da6b7b92507903853009605fb10/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/neg-01-2023/v/1527b377298289bd5d97a24bf8257f1fe288f209/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/1527b377298289bd5d97a24bf8257f1fe288f209/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/1527b377298289bd5d97a24bf8257f1fe288f209/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -93,13 +90,13 @@
 </head>
 <body>
 <header id="title-block-header">
-<h1 class="title">Diagnóstico SOA Actual FNA</h1>
+<h1 class="title">Negocio 01-2023. Restaurante</h1>
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://hwong23.github.io/neg-01-2023/v/abbb8c4e21816da6b7b92507903853009605fb10/">permalink</a>)
+(<a href="https://hwong23.github.io/neg-01-2023/v/1527b377298289bd5d97a24bf8257f1fe288f209/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/hwong23/neg-01-2023/tree/abbb8c4e21816da6b7b92507903853009605fb10">hwong23/neg-01-2023@abbb8c4</a>
+from <a href="https://github.com/hwong23/neg-01-2023/tree/1527b377298289bd5d97a24bf8257f1fe288f209">hwong23/neg-01-2023@1527b37</a>
 on March 27, 2023.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -107,34 +104,26 @@ on March 27, 2023.
 <li><p><strong>Harry Wong, ing.</strong>
 <br>
 · <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/e_hwong">e_hwong</a>
+<a href="https://github.com/hwong">hwong</a>
 <br>
 <small>
-Arquitecto SOA, Stefanini
+Arquitecto
 </small></p></li>
-<li><p><strong>Eddie Hernandez, ing.</strong>
+<li><p><strong>Enid Molina</strong>
 <br>
 · <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/e_ehernandez">e_ehernandez</a>
+<a href="https://github.com/emolina">emolina</a>
 <br>
 <small>
-Datos, Stefanini
+Operación
 </small></p></li>
-<li><p><strong>Federico Suárez, ing.</strong>
+<li><p><strong>Xavier Maldonado</strong>
 <br>
 · <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/e_fsuarez">e_fsuarez</a>
+<a href="https://github.com/xmaldonado">xmaldonado</a>
 <br>
 <small>
-Infraestructura, Stefanini
-</small></p></li>
-<li><p><strong>Darío Correal, ing.</strong>
-<br>
-· <img src="images/github.svg" class="inline_icon" width="16" height="16" alt="GitHub icon" />
-<a href="https://github.com/e_dcorreal">e_dcorreal</a>
-<br>
-<small>
-Arquitecto TI, Stefanini
+Diseño
 </small></p></li>
 </ul>
 <div id="correspondence">
@@ -168,7 +157,7 @@ Arquitecto TI, Stefanini
 </tr>
 <tr class="even">
 <td>Version</td>
-<td>abbb8c4 del 27 Mar 2023</td>
+<td>1527b37 del 27 Mar 2023</td>
 </tr>
 <tr class="odd">
 <td>Vínculos</td>
