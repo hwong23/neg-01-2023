@@ -122,17 +122,12 @@ Please open [an issue](https://github.com/hwong23/neg-01-2023/issues) for any qu
 
 ## Lista de Cambios
 ...
-d78c9c1 cpush3 harry.wong Mon Mar 27 13:42:59 2023 -0500\n
-
+d78c9c1 cpush3 harry.wong Mon Mar 27 13:42:59 2023 -0500
 b5c3101 cpush4 harry.wong Mon Mar 27 13:43:33 2023 -0500
-
-986652e cpush5 harry.wong Mon Mar 27 13:44:01 2023 -0500-e 
-
+986652e cpush5 harry.wong Mon Mar 27 13:44:01 2023 -0500 
 9f852e6 cpush6 harry.wong Mon Mar 27 13:44:44 2023 -0500 
-
 3e79a19 cpush7 harry.wong 
-
 180f3b4 cpush8 harry.wong Mon Mar 27 13:46:41 2023 -0500 
-
 a8445ad cpush9 harry.wong Mon Mar 27 13:47:20 2023 -0500 
 8508a01 cpush10 harry.wong Mon Mar 27 13:47:57 2023 -0500 
+585e5e6 cpush11 harry.wong Mon Mar 27 13:48:11 2023 -0500 
