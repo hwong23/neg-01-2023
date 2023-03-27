@@ -2,7 +2,7 @@ acuerdo
 Autor
 Borrador
 clave
-Condiciones
+condiciones
 el
 Fuente
 ingresos
