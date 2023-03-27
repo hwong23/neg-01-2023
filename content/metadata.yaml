@@ -1,5 +1,5 @@
 ---
-title: "Diagnóstico SOA Actual FNA"
+title: "Negocio 01-2023. Restaurante"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
   - SOA
@@ -7,27 +7,21 @@ keywords:
   - gobierno
 lang: en-US
 authors:
-  - github: e_hwong
+  - github: hwong
     name: Harry Wong, ing.
     initials: HWO
-    email: e_hwong@stefanini.com
+    email: correo@negocio.com
     affiliations:
-      - Arquitecto SOA, Stefanini
-  - github: e_ehernandez
-    name: Eddie Hernandez, ing.
-    initials: EHE
-    email: e_ehernandez@stefanini.com
+      - Arquitecto
+  - github: emolina
+    name: Enid Molina
+    initials: EMO
+    email: correo@negocio.com
     affiliations:
-      - Datos, Stefanini
-  - github: e_fsuarez
-    name: Federico Suárez, ing.
-    initials: FSU
-    email: e_fsuarezg@stefanini.com
+      - Operación
+  - github: xmaldonado
+    name: Xavier Maldonado
+    initials: XMA
+    email: correo@negocio.com
     affiliations:
-      - Infraestructura, Stefanini
-  - github: e_dcorreal
-    name: Darío Correal, ing.
-    initials: DCO
-    email: e_dcorreal@stefanini.com
-    affiliations:
-      - Arquitecto TI, Stefanini
+      - Diseño
