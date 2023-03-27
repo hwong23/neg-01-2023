@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-27" />
   <meta name="citation_publication_date" content="2023-03-27" />
   <meta property="article:published_time" content="2023-03-27" />
-  <meta name="dc.modified" content="2023-03-27T18:16:41+00:00" />
-  <meta property="article:modified_time" content="2023-03-27T18:16:41+00:00" />
+  <meta name="dc.modified" content="2023-03-27T18:18:15+00:00" />
+  <meta property="article:modified_time" content="2023-03-27T18:18:15+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/neg-01-2023/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/neg-01-2023/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/neg-01-2023/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/neg-01-2023/v/11ff740fcb5a627b2f6b908e82dd48e7f43d2cc1/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/11ff740fcb5a627b2f6b908e82dd48e7f43d2cc1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/11ff740fcb5a627b2f6b908e82dd48e7f43d2cc1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/neg-01-2023/v/8f96855bf86bd6bac23fcd57cc6538a0503c810a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/8f96855bf86bd6bac23fcd57cc6538a0503c810a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/8f96855bf86bd6bac23fcd57cc6538a0503c810a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/neg-01-2023/v/11ff740fcb5a627b2f6b908e82dd48e7f43d2cc1/))
+([permalink](https://hwong23.github.io/neg-01-2023/v/8f96855bf86bd6bac23fcd57cc6538a0503c810a/))
 was automatically generated
-from [hwong23/neg-01-2023@11ff740](https://github.com/hwong23/neg-01-2023/tree/11ff740fcb5a627b2f6b908e82dd48e7f43d2cc1)
+from [hwong23/neg-01-2023@8f96855](https://github.com/hwong23/neg-01-2023/tree/8f96855bf86bd6bac23fcd57cc6538a0503c810a)
 on March 27, 2023.
 </em></small>
 
