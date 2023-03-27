@@ -1,4 +1,4 @@
-echo `git log -n 1 --pretty='format:%C(auto)%h %s %an'` '\n' >> README.md
+echo `git log -n 1 --pretty='format:%C(auto)%h %s %an %ad'` '\n' >> README.md
 # echo '\n' >> README.md
 
 git add .
