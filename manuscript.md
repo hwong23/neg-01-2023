@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-03-27" />
   <meta name="citation_publication_date" content="2023-03-27" />
   <meta property="article:published_time" content="2023-03-27" />
-  <meta name="dc.modified" content="2023-03-27T18:20:00+00:00" />
-  <meta property="article:modified_time" content="2023-03-27T18:20:00+00:00" />
+  <meta name="dc.modified" content="2023-03-27T18:24:08+00:00" />
+  <meta property="article:modified_time" content="2023-03-27T18:24:08+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/neg-01-2023/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/neg-01-2023/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/neg-01-2023/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/neg-01-2023/v/244865b9ae6ae69c73ad31707f3f0cc2dc40a9c7/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/244865b9ae6ae69c73ad31707f3f0cc2dc40a9c7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/244865b9ae6ae69c73ad31707f3f0cc2dc40a9c7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/neg-01-2023/v/92fae11010ff0413a1d418e15dd9e8a66c586708/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/92fae11010ff0413a1d418e15dd9e8a66c586708/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/neg-01-2023/v/92fae11010ff0413a1d418e15dd9e8a66c586708/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://hwong23.github.io/neg-01-2023/v/244865b9ae6ae69c73ad31707f3f0cc2dc40a9c7/))
+([permalink](https://hwong23.github.io/neg-01-2023/v/92fae11010ff0413a1d418e15dd9e8a66c586708/))
 was automatically generated
-from [hwong23/neg-01-2023@244865b](https://github.com/hwong23/neg-01-2023/tree/244865b9ae6ae69c73ad31707f3f0cc2dc40a9c7)
+from [hwong23/neg-01-2023@92fae11](https://github.com/hwong23/neg-01-2023/tree/92fae11010ff0413a1d418e15dd9e8a66c586708)
 on March 27, 2023.
 </em></small>
 
@@ -123,7 +123,16 @@ Jane Roe \<jane.roe@whatever.edu\>.
 
 
 
-Borrador
+|Tema            |Condiciones de participación, ingresos y permanencia en el acuerdo: **Borrador**|
+|----------------|---------------------------------------------------|
+|Palabras clave  |condiciones, participación, ingresos, permanencia, acuerdo |
+|Autor           |                                                   |
+|Fuente          |                                                   |
+|Version|92fae11 del 27 Mar 2023                              |
+|Vínculos|[01.abstract](01.abstract.md)                              |
+
+<br>
+
 ## Condiciones de participación, ingresos y permanencia en el acuerdo 
 
 
