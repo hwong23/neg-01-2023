@@ -117,10 +117,10 @@ All other files are only available under CC BY 4.0, including:
 + `*.docx`
 
 Please open [an issue](https://github.com/hwong23/neg-01-2023/issues) for any question related to licensing.
-11ff740 init3 harry.wong Mon Mar 27 13:14:06 2023 -050011ff740 init3 harry.wong Mon Mar 27 13:14:06 2023 -05008f96855 init4 harry.wong Mon Mar 27 13:15:20 2023 -0500244865b condiciones harry.wong Mon Mar 27 13:17:24 2023 -050092fae11 condiciones2 harry.wong Mon Mar 27 13:20:46 2023 -0500501c736 condiciones3 harry.wong Mon Mar 27 13:26:19 2023 -0500n
-nn
 
+<br>
 
-
-
+## Lista de Cambios
 9ed5e9b condiciones4--tema harry.wong Mon Mar 27 13:32:55 2023 -0500
+
+7cb0dfd cpush harry.wong Mon Mar 27 13:38:24 2023 -0500
