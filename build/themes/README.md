@@ -61,6 +61,3 @@ WARNING: Ignored `font-display:auto` at 1:53114, descriptor not supported.
 ERROR: Failed to load font at "https://use.fontawesome.com/releases/v5.7.2/webfonts/fa-brands-400.eot#iefix"
 WARNING: Expected a media type, got only/**/screen
 ```
-
-## Lista de cambios
-...
