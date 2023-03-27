@@ -121,7 +121,5 @@ Please open [an issue](https://github.com/hwong23/neg-01-2023/issues) for any qu
 <br>
 
 ## Lista de Cambios
-9ed5e9b condiciones4--tema harry.wong Mon Mar 27 13:32:55 2023 -0500
-7cb0dfd cpush harry.wong Mon Mar 27 13:38:24 2023 -0500
-f41916b readme harry.wong Mon Mar 27 13:40:18 2023 -050093ea96c cpush harry.wong Mon Mar 27 13:40:45 2023 -0500
-
+...
+9e2c796 cpush2 harry.wong Mon Mar 27 13:41:46 2023 -0500\n
