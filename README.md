@@ -134,3 +134,4 @@ a8445ad cpush9 harry.wong Mon Mar 27 13:47:20 2023 -0500
 e116a4c readme harry.wong Mon Mar 27 13:49:09 2023 -0500 
 ae270ec metadata harry.wong Mon Mar 27 13:55:48 2023 -0500 
 9668a7b condiciones harry.wong Mon Mar 27 13:58:56 2023 -0500 
+f6e3c07 condiciones2 harry.wong Mon Mar 27 14:07:22 2023 -0500 
