@@ -117,3 +117,4 @@ All other files are only available under CC BY 4.0, including:
 + `*.docx`
 
 Please open [an issue](https://github.com/hwong23/neg-01-2023/issues) for any question related to licensing.
+11ff740 init3 harry.wong Mon Mar 27 13:14:06 2023 -050011ff740 init3 harry.wong Mon Mar 27 13:14:06 2023 -0500
