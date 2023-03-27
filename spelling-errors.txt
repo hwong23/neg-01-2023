@@ -2,9 +2,8 @@ acuerdo
 Autor
 Borrador
 clave
-Condiciones
+condiciones
 el
-fae
 Fuente
 ingresos
 janeroe
